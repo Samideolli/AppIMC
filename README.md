@@ -1,4 +1,4 @@
-#Aplicativo em construção, objetivo aprender cada vez mais sobre React-Native
+#Aplicativo em construção, o objetivo é aprender cada vez mais sobre React-Native
 
 
 
